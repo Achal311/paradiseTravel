@@ -1,0 +1,10 @@
+.navbar{
+    background-color: rgba(24, 118, 129, 0.4);
+    width: 100%;
+    position: absolute;
+}
+.logo{
+    width: 100px;
+    padding: 0.2em;
+    padding-left: 0.5em;
+}
