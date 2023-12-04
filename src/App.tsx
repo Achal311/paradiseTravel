@@ -6,11 +6,11 @@ import Footer from "./components/Footer";
 function App() {
   // const [count, setCount] = useState(0);
   const imgURL = [
-    "/src/assets/bgimg.png",
-    "/src/assets/bgimg.png",
-    "/src/assets/bgimg.png",
-    "/src/assets/bgimg.png",
-    "/src/assets/bgimg.png",
+    "./src/assets/bgimg.png",
+    "./src/assets/bgimg.png",
+    "./src/assets/bgimg.png",
+    "./src/assets/bgimg.png",
+    "./src/assets/bgimg.png",
   ];
   return (
     <>
@@ -22,10 +22,10 @@ function App() {
         <div className="image-container">
           <img
             className="paradise-text"
-            src="/src/assets/whiteParadise.png"
+            src="./src/assets/whiteParadise.png"
             alt=""
           />
-          <img className="whiteRev" src="/src/assets/whiteRev.png" alt="" />
+          <img className="whiteRev" src="./src/assets/whiteRev.png" alt="" />
         </div>
       </div>
       <div className="services"></div>
