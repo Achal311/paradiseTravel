@@ -27,7 +27,7 @@ function App() {
           />
           <img
             className="whiteRev"
-            src="./src/assets/rev.png"
+            src="./src/assets/whiteRev.png"
             alt="icons-of-monuments"
           />
         </div>
