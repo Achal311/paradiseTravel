@@ -22,10 +22,14 @@ function App() {
         <div className="image-container">
           <img
             className="paradise-text"
-            src="./src/assets/whiteParadise.PNG"
-            alt=""
+            src="./src/assets/whiteParadise.png"
+            alt="paradise-text"
           />
-          <img className="whiteRev" src="./src/assets/whiteRev.png" alt="" />
+          <img
+            className="whiteRev"
+            src="./src/assets/rev.png"
+            alt="icons-of-monuments"
+          />
         </div>
       </div>
       <div className="services"></div>
