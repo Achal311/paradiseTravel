@@ -25,6 +25,7 @@
   height: auto;
 }
 .paradise-text{
+  background-image: url("/src/assets/bgimg.png");
   position: absolute;
   left: 50%;
   top: 50%;
@@ -32,6 +33,7 @@
   width: 170px;
 }
 .whiteRev{
+  background-image: url("/src/assets/bgimg.png");
   width: 458px;
   height: 458px;
   animation: rotation 20s infinite linear;
