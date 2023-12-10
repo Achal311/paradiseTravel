@@ -20,7 +20,7 @@ function App() {
         <div className="image-container">
           <img
             className="paradise-text"
-            src="./public/assets/whiteParadise.png"
+            src="src/assets/rev.png"
             alt="paradise-text"
           />
           <img
