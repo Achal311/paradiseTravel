@@ -20,12 +20,12 @@ function App() {
         <div className="image-container">
           <img
             className="paradise-text"
-            src="./src/assets/whiteParadise.png"
+            src="../src/assets/whiteParadise.png"
             alt="paradise-text"
           />
           <img
             className="whiteRev"
-            src="./src/assets/whiteRev.png"
+            src="../src/assets/whiteRev.png"
             alt="icons-of-monuments"
           />
         </div>
